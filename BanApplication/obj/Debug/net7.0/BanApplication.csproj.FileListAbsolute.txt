@@ -1,0 +1,14 @@
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\obj\Debug\net7.0\BanApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\obj\Debug\net7.0\BanApplication.AssemblyInfoInputs.cache
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\obj\Debug\net7.0\BanApplication.AssemblyInfo.cs
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\obj\Debug\net7.0\BanApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\bin\Debug\net7.0\BanApplication.exe
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\bin\Debug\net7.0\BanApplication.deps.json
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\bin\Debug\net7.0\BanApplication.runtimeconfig.json
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\bin\Debug\net7.0\BanApplication.dll
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\bin\Debug\net7.0\BanApplication.pdb
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\obj\Debug\net7.0\BanApplication.dll
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\obj\Debug\net7.0\refint\BanApplication.dll
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\obj\Debug\net7.0\BanApplication.pdb
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\obj\Debug\net7.0\BanApplication.genruntimeconfig.cache
+C:\Users\Nurbek\Desktop\BanApplication\BanApplication\obj\Debug\net7.0\ref\BanApplication.dll
